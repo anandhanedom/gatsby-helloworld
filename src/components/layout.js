@@ -1,9 +1,9 @@
-import React from "react"
+import React from "react";
 
-import Header from "./header"
-import Footer from "./footer"
+import Header from "./header";
+import Footer from "./footer";
 
-import "../styles/index.css"
+import "../styles/index.css";
 
 const Layout = props => {
   return (
@@ -12,7 +12,7 @@ const Layout = props => {
       {props.children}
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;

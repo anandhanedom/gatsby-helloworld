@@ -1,6 +1,6 @@
-import React from "react"
+import React from "react";
 
-import Layout from "../components/layout"
+import Layout from "../components/layout";
 
 const AboutPage = () => {
   return (
@@ -8,7 +8,7 @@ const AboutPage = () => {
       <h1>About</h1>
       <p>I'm currently a full stack developer.</p>
     </Layout>
-  )
-}
+  );
+};
 
-export default AboutPage
+export default AboutPage;

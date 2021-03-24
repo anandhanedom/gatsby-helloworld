@@ -1,6 +1,6 @@
-import React from "react"
+import React from "react";
 
-import Layout from "../components/layout"
+import Layout from "../components/layout";
 
 const ContactPage = () => {
   return (
@@ -8,7 +8,7 @@ const ContactPage = () => {
       <h1>Contact</h1>
       <p>Reach me at test@proton.com</p>
     </Layout>
-  )
-}
+  );
+};
 
-export default ContactPage
+export default ContactPage;
