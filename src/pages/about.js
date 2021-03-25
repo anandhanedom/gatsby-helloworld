@@ -6,7 +6,7 @@ const AboutPage = () => {
   return (
     <Layout>
       <h1>About</h1>
-      <p>I'm currently a full stack developer.</p>
+      <p>It's not football. It's LaLiga.</p>
     </Layout>
   );
 };

@@ -6,12 +6,13 @@ import Layout from "../components/layout";
 const Home = () => {
   return (
     <Layout>
-      <h1>Hello</h1>
+      <h1>Hola</h1>
       <h2>
-        I'm Jack Sparrow, a full stack developer, living in Yellowstone Park.
+        Don't miss all the news of the best league in the world. The single
+        place for all LaLiga Santander football.
       </h2>
       <p>
-        Need a developer? <Link to="/contact">Contact Me</Link>
+        Want to work with us? <Link to="/contact">Contact</Link>
       </p>
     </Layout>
   );
