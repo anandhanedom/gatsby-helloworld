@@ -5,6 +5,8 @@ date: "2020-03-24"
 
 The Dutchman has been talking with Joan Laporta
 
+![Ronald Koeman](./koeman.jpg)
+
 ## Tags
 
 1. Ronald Koeman

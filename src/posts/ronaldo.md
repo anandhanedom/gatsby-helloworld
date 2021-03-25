@@ -5,6 +5,8 @@ date: "2020-03-24"
 
 The forward is willing to leave Italy, excited about a return to the Spanish capital
 
+![Cristiano Ronaldo](./ronaldo.jpg)
+
 ## Tags
 
 1. Cristiano Ronaldo
