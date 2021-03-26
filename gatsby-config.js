@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "LaLiga Santander",
+    title: "Bleacher Report",
     author: "Andres Iniesta",
   },
 

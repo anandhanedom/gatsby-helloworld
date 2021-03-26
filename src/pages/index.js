@@ -8,11 +8,12 @@ const Home = () => {
   return (
     <Layout>
       <Head title={"Home"} />
-      <h1>Hola!</h1>
-      <h2>
-        Don't miss all the news of the best league in the world. The single
-        place for all LaLiga Santander football.
-      </h2>
+      <h1>All the latest & breaking football news.</h1>
+      <h3>
+        All news. <br />
+        All matches. <br />
+        All leagues & teams.
+      </h3>
       <p>
         Want to work with us? <Link to="/contact">Contact</Link>
       </p>
