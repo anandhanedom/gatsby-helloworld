@@ -3,6 +3,8 @@ import React from "react";
 // Components
 import Navbar from "./Navbar";
 
+import "../styles/global.css";
+
 const Layout = props => {
   return (
     <div className="layout">

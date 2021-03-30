@@ -3,7 +3,7 @@ import React from "react";
 // Components
 import Layout from "../components/Layout";
 
-export default function Home() {
+const Home = () => {
   return (
     <Layout>
       <section>
@@ -15,4 +15,6 @@ export default function Home() {
       </section>
     </Layout>
   );
-}
+};
+
+export default Home;
