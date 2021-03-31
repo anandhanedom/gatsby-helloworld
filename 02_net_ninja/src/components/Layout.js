@@ -11,7 +11,7 @@ const Layout = props => {
       <Navbar />
       <div className="content">{props.children}</div>
       <footer>
-        <p>Copyright 2021 Web Warrior</p>
+        <p>Copyright {new Date().getFullYear()} Web Warrior</p>
       </footer>
     </div>
   );
