@@ -7,7 +7,7 @@ function About() {
   return (
     <Layout>
       <div>
-        <h1>About Page</h1>
+        <h1>About</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nemo.
         </p>
